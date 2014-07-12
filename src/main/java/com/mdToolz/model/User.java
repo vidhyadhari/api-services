@@ -3,7 +3,7 @@ package com.mdToolz.model;
 import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement
-public class Client {
+public class User {
 	private String name;
 	private int clientId;
 	
